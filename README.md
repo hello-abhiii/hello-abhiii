@@ -81,3 +81,9 @@
 - ✅ Build 5 Full-Stack Projects
 - ✅ Learn System Design
 - ✅ Crack a MAANG Internship
+
+---
+
+## 🐍 My Contribution Snake
+
+![Snake animation](https://github.com/hello-abhiii/hello-abhiii/blob/output/github-snake-dark.svg)
