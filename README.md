@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Abhinav Chaudhary
 
-<!--
-**hello-abhiii/hello-abhiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 2nd Year B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+- Data Structures & Algorithms
+- C++
+- Git & GitHub
+
+🎯 Goals
+- Solve 700+ LeetCode Problems
+- Crack MAANG Internship
+- Build Real-World Projects
+
+## 🛠️ Tech Stack
+
+- C++
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript (Learning)
+
+## 📚 Currently Working On
+
+- LeetCode Daily
+- DSA Roadmap
+- College Projects
+
+⭐ Thanks for visiting my profile!
