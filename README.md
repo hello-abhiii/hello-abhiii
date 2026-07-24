@@ -23,13 +23,12 @@
 - Solve 700+ LeetCode Problems
 - Build 5 Projects
 - Learn System Design
-- Crack a MAANG Internship
 
 ---
 
 ## 🌐 Connect With Me
 
-Add your LinkedIn here
+https://www.linkedin.com/in/abhinav-chaudhary-8622b838b/
 
 ---
 
