@@ -48,3 +48,9 @@
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-abhiii&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hello-abhiii&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
