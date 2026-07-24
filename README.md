@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhinav Chaudhary</h1>
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;Abhinav+Chaudhary;2nd+Year+CSE+Student;Competitive+Programmer;Learning+DSA+Every+Day;Future+Software+Engineer+🚀" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
