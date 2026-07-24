@@ -30,3 +30,21 @@
 - College Projects
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 📊 GitHub Stats
+
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-abhiii&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hello-abhiii&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-abhiii&layout=compact&theme=tokyonight)
