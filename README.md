@@ -20,7 +20,7 @@
 
 🎯 2026 Goals
 
-- Solve 700+ LeetCode Problems
+- Solve 100+ LeetCode Problems
 - Build 5 Projects
 - Learn System Design
 
@@ -76,7 +76,7 @@ https://www.linkedin.com/in/abhinav-chaudhary-8622b838b/
 
 ---
 
-## ⭐ Featured Repositories
+## ⭐ Featured Repositories (upcomming)
 
 - 🚀 LeetCode Solutions
 - 📚 DSA Notes
