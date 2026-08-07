@@ -80,6 +80,3 @@ https://www.linkedin.com/in/abhinav-chaudhary-8622b838b/
 
 - 🚀 LeetCode Solutions
 - 📚 DSA Notes
-- 💼 Portfolio Website
-- 🌦️ Weather App
-- 💰 Expense Tracker
