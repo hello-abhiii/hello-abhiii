@@ -35,7 +35,7 @@ https://www.linkedin.com/in/abhinav-chaudhary-8622b838b/
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,html,css,javascript,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux" />
 </p>
 
 ---
